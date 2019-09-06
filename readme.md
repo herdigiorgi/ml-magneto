@@ -1,6 +1,6 @@
 # ML - MAGNETO
 
-You can run this exercise locally by just typing:
+The current IP is [52.201.56.84](http://52.201.56.84/stats). But I will stop the instance during this weekend. But in any case, you can run this exercise locally by just typing:
 
 ```
 make
